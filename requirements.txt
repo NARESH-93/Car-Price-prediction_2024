@@ -1,6 +1,5 @@
+flask
 numpy
-pandas>=1.3.0
-scikit-learn==1.1.2
-matplotlib
-# For data visualization
-seaborn
+scikit-learn
+joblib
+gunicorn
